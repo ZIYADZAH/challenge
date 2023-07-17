@@ -1,0 +1,30 @@
+div{
+  background-color: blanchedalmond;
+    border-radius: 150;
+    border-style:  outset;
+    border-radius: 30px;
+    width: 55px;
+    height: 25px;
+    text-align: center;
+ margin: auto;
+
+}
+.div2{
+    border-style: groove;
+    border-color: green;
+    background-color: blanchedalmond;
+}
+.div3{
+border-style: ridge;
+border-color: blue;
+
+
+
+}
+.div4{
+    
+border-style: double;
+background-color:blanchedalmond ;
+border-color: aqua;
+
+}
